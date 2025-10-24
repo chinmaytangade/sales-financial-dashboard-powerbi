@@ -61,4 +61,4 @@ It should include fields like:
 
 ## 🏷️ Repository Info
 **Repository Name:** `sales-financial-dashboard`  
-**Description:** Interactive Power BI dashboard for sales and financial insights.
+
